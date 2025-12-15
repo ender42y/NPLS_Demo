@@ -1,2 +1,2 @@
-# NLPS_Demo
+# NPLS_Demo
 a demo of the npls app
